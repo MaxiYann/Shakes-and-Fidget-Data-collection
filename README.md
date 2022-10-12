@@ -1,6 +1,6 @@
 # Shakes & Fidget Data collection
 
-Data collection from the game Shakes &amp; Fidget for the sftools tool deved by mar21
+Data collection from the game Shakes &amp; Fidget for [SFTools](https://sftools.mar21.eu/index.html) developped by mar21
 
 ## Naming rules
 
