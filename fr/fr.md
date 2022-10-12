@@ -1,1 +1,1 @@
-# Here does French server's files
+# Here goes French server's files

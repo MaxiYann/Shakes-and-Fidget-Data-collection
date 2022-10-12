@@ -1,1 +1,1 @@
-# Here does English (us and gb) server's files
+# Here goes English (us and gb) server's files

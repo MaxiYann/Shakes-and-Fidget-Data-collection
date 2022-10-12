@@ -1,1 +1,1 @@
-# Here does International server's files
+# Here goes International server's files
